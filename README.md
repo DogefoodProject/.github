@@ -1,1 +1,1 @@
-# DogefoodProject
+# Dogefood Project
